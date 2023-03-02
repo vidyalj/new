@@ -261,9 +261,7 @@
                     "name": "monophthongs",
                     "children": [
                         {
-                            "name": "",
-                            "children": [
-                                {
+                            
                                     "name": "a",
                                     "children": [
                                         {
@@ -379,8 +377,8 @@
                                         }
                                     ]
                                 }
-                            ]
-                        }
+                            
+                        
                     ]
                 }
             ]
