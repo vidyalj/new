@@ -1,0 +1,140 @@
+{
+    "name": "audio",
+    "children": [
+        {
+            "name": "consonants",
+            "children": [
+                {
+                    "name": "",
+                    "children": [
+                        {
+                            "name": "",
+                            "children": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "vowels",
+            "children": [
+                {
+                    "name": "a",
+                    "children": [
+                        {
+                            "name": "2D shape-a",
+                            "children": []
+                        },
+                        {
+                            "name": "colour-a",
+                            "children": []
+                        },
+                        {
+                            "name": "3D shape-a",
+                            "children": []
+                        },
+                        {
+                            "name": "momentum-a",
+                            "children": []
+                        },
+                        {
+                            "name": "emotion-a",
+                            "children": []
+                        },
+                        {
+                            "name": "season-a",
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "name": "e",
+                    "children": [
+                        {
+                            "name": "2D shape-e",
+                            "children": []
+                        },
+                        {
+                            "name": "colour-e",
+                            "children": []
+                        },
+                        {
+                            "name": "3D shape-e",
+                            "children": []
+                        },
+                        {
+                            "name": "momentum-e",
+                            "children": []
+                        },
+                        {
+                            "name": "emotion-e",
+                            "children": []
+                        },
+                        {
+                            "name": "season-e",
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "name": "o",
+                    "children": [
+                        {
+                            "name": "2D shape-o",
+                            "children": []
+                        },
+                        {
+                            "name": "colour-o",
+                            "children": []
+                        },
+                        {
+                            "name": "3D shape-o",
+                            "children": []
+                        },
+                        {
+                            "name": "momentum-o",
+                            "children": []
+                        },
+                        {
+                            "name": "emotion-o",
+                            "children": []
+                        },
+                        {
+                            "name": "season-o",
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "name": "u",
+                    "children": [
+                        {
+                            "name": "2D shape-u",
+                            "children": []
+                        },
+                        {
+                            "name": "colour-u",
+                            "children": []
+                        },
+                        {
+                            "name": "3D shape-u",
+                            "children": []
+                        },
+                        {
+                            "name": "momentum-u",
+                            "children": []
+                        },
+                        {
+                            "name": "emotion-u",
+                            "children": []
+                        },
+                        {
+                            "name": "season-u",
+                            "children": []
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
