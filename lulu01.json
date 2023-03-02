@@ -294,6 +294,7 @@
                                 },
                                 {
                                     "name": "e",
+                                     "link": "https://www.google.com/",
                                     "children": [
                                         {
                                             "name": "2D shape-e",
@@ -323,6 +324,7 @@
                                 },
                                 {
                                     "name": "o",
+                                    "link": "https://www.google.com/",
                                     "children": [
                                         {
                                             "name": "2D shape-o",
@@ -352,6 +354,7 @@
                                 },
                                 {
                                     "name": "u",
+                                    "link": "https://www.google.com/",
                                     "children": [
                                         {
                                             "name": "2D shape-u",
