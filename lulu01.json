@@ -1,0 +1,389 @@
+{
+    "name": "phoneme",
+    "children": [
+        {
+            "name": "consonants",
+            "children": [
+                {
+                    "name": "/b/",
+                    "children": [
+                        
+                    ]
+                },
+                {
+                    "name": "/d/ ",
+                    "children": [
+                        
+                    ]
+                },
+                {
+                    "name": "/f/",
+                    "children": [
+                        
+                    ]
+                },
+                {
+                    "name": "/g/",
+                    "children": [
+                        
+                    ]
+                },
+                {
+                    "name": "/h/",
+                    "children": [
+                        
+                    ]
+                },
+                {
+                    "name": "/j/",
+                    "children": [
+                        
+                    ]
+                },
+                {
+                    "name": "/k/",
+                    "children": [
+                        
+                    ]
+                },
+                {
+                    "name": "/l/",
+                    "children": [
+                        
+                    ]
+                },
+                {
+                    "name": "/m/",
+                    "children": [
+                        
+                    ]
+                },
+                {
+                    "name": "/n/",
+                    "children": [
+                        
+                    ]
+                },
+                {
+                    "name": "/p/",
+                    "children": [
+                        
+                    ]
+                },
+                {
+                    "name": "/r/",
+                    "children": [
+                        
+                    ]
+                },
+                {
+                    "name": "/s/",
+                    "children": [
+                        
+                    ]
+                },
+                {
+                    "name": "/t/",
+                    "children": [
+                        
+                    ]
+                },
+                {
+                    "name": "/v/",
+                    "children": [
+                        
+                    ]
+                },
+                {
+                    "name": "/w/",
+                    "children": [
+                        
+                    ]
+                },
+                {
+                    "name": "/y/",
+                    "children": [
+                        
+                    ]
+                },
+                {
+                    "name": "/z/",
+                    "children": [
+                        
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "digraphs",
+            "children": [
+                {
+                    "name": "/ch/",
+                    "children": [
+                        
+                    ]
+                },
+                {
+                    "name": "/sh/",
+                    "children": [
+                        
+                    ]
+                },
+                {
+                    "name": "/ng/",
+                    "children": [
+                        
+                    ]
+                },
+                {
+                    "name": "/th/ (unvoiced)",
+                    "children": [
+                        
+                    ]
+                },
+                {
+                    "name": "/th/ (voiced)",
+                    "children": [
+                        
+                    ]
+                },
+                {
+                    "name": "/zh/",
+                    "children": [
+                        
+                    ]
+                },
+                {
+                    "name": "/wh/",
+                    "children": [
+                        
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "r-controlled' sounds",
+            "children": [
+                {
+                    "name": "/a(r)/",
+                    "children": [
+                        
+                    ]
+                },
+                {
+                    "name": "/\u0101(r)/",
+                    "children": [
+                        
+                    ]
+                },
+                {
+                    "name": "/i(r)/",
+                    "children": [
+                        
+                    ]
+                },
+                {
+                    "name": "/o(r)/",
+                    "children": [
+                        
+                    ]
+                },
+                {
+                    "name": "/u(r)/",
+                    "children": [
+                        
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "vowels",
+            "children": [
+                {
+                    "name": "diphthongs ",
+                    "children": [
+                        {
+                            "name": "",
+                            "children": [
+                                {
+                                    "name": "a\u028a/",
+                                    "children": [
+                                       
+                                    ]
+                                },
+                                {
+                                    "name": "/a\u026a/",
+                                    "children": [
+                                       
+                                    ]
+                                },
+                                {
+                                    "name": "/e\u026a/",
+                                    "children": [
+                                        
+                                    ]
+                                },
+                                {
+                                    "name": "/e\u0259/",
+                                    "children": [
+                                        
+                                    ]
+                                },
+                                {
+                                    "name": "/\u026a\u0259/",
+                                    "children": [
+                                        
+                                    ]
+                                },
+                                {
+                                    "name": "/o\u028a/",
+                                    "children": [
+                                        
+                                    ]
+                                },
+                                {
+                                    "name": "\u0254\u026a/",
+                                    "children": [
+                                        
+                                    ]
+                                },
+                                {
+                                    "name": "/\u028a\u0259/",
+                                    "children": [
+                                       
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "monophthongs",
+                    "children": [
+                        {
+                            "name": "",
+                            "children": [
+                                {
+                                    "name": "a",
+                                    "children": [
+                                        {
+                                            "name": "2D shape-a",
+                                            "children": []
+                                        },
+                                        {
+                                            "name": "colour-a",
+                                            "children": []
+                                        },
+                                        {
+                                            "name": "3D shape-a",
+                                            "children": []
+                                        },
+                                        {
+                                            "name": "momentum-a",
+                                            "children": []
+                                        },
+                                        {
+                                            "name": "emotion-a",
+                                            "children": []
+                                        },
+                                        {
+                                            "name": "season-a",
+                                            "children": []
+                                        }
+                                    ]
+                                },
+                                {
+                                    "name": "e",
+                                    "children": [
+                                        {
+                                            "name": "2D shape-e",
+                                            "children": []
+                                        },
+                                        {
+                                            "name": "colour-e",
+                                            "children": []
+                                        },
+                                        {
+                                            "name": "3D shape-e",
+                                            "children": []
+                                        },
+                                        {
+                                            "name": "momentum-e",
+                                            "children": []
+                                        },
+                                        {
+                                            "name": "emotion-e",
+                                            "children": []
+                                        },
+                                        {
+                                            "name": "season-e",
+                                            "children": []
+                                        }
+                                    ]
+                                },
+                                {
+                                    "name": "o",
+                                    "children": [
+                                        {
+                                            "name": "2D shape-o",
+                                            "children": []
+                                        },
+                                        {
+                                            "name": "colour-o",
+                                            "children": []
+                                        },
+                                        {
+                                            "name": "3D shape-o",
+                                            "children": []
+                                        },
+                                        {
+                                            "name": "momentum-o",
+                                            "children": []
+                                        },
+                                        {
+                                            "name": "emotion-o",
+                                            "children": []
+                                        },
+                                        {
+                                            "name": "season-o",
+                                            "children": []
+                                        }
+                                    ]
+                                },
+                                {
+                                    "name": "u",
+                                    "children": [
+                                        {
+                                            "name": "2D shape-u",
+                                            "children": []
+                                        },
+                                        {
+                                            "name": "colour-u",
+                                            "children": []
+                                        },
+                                        {
+                                            "name": "3D shape-u",
+                                            "children": []
+                                        },
+                                        {
+                                            "name": "momentum-u",
+                                            "children": []
+                                        },
+                                        {
+                                            "name": "emotion-u",
+                                            "children": []
+                                        },
+                                        {
+                                            "name": "season-u",
+                                            "children": []
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
