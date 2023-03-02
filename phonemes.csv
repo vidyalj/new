@@ -1,0 +1,63 @@
+superset,subset1,subset2,subset3,subset4,subset5
+phoneme,consonants,/b/,,,
+phoneme,consonants,/d/ ,,,
+phoneme,consonants,/f/,,,
+phoneme,consonants,/g/,,,
+phoneme,consonants,/h/,,,
+phoneme,consonants,/j/,,,
+phoneme,consonants,/k/,,,
+phoneme,consonants,/l/,,,
+phoneme,consonants,/m/,,,
+phoneme,consonants,/n/,,,
+phoneme,consonants,/p/,,,
+phoneme,consonants,/r/,,,
+phoneme,consonants,/s/,,,
+phoneme,consonants,/t/,,,
+phoneme,consonants,/v/,,,
+phoneme,consonants,/w/,,,
+phoneme,consonants,/y/,,,
+phoneme,consonants,/z/,,,
+phoneme,digraphs,/ch/,,,
+phoneme,digraphs,/sh/,,,
+phoneme,digraphs,/ng/,,,
+phoneme,digraphs,/th/ (unvoiced),,,
+phoneme,digraphs,/th/ (voiced),,,
+phoneme,digraphs,/zh/,,,
+phoneme,digraphs,/wh/,,,
+phoneme,r-controlled' sounds,/a(r)/,,,
+phoneme,r-controlled' sounds,/ā(r)/,,,
+phoneme,r-controlled' sounds,/i(r)/,,,
+phoneme,r-controlled' sounds,/o(r)/,,,
+phoneme,r-controlled' sounds,/u(r)/,,,
+phoneme,vowels,diphthongs ,,aʊ/,
+phoneme,vowels,diphthongs ,,/aɪ/,
+phoneme,vowels,diphthongs ,,/eɪ/,
+phoneme,vowels,diphthongs ,,/eə/,
+phoneme,vowels,diphthongs ,,/ɪə/,
+phoneme,vowels,diphthongs ,,/oʊ/,
+phoneme,vowels,diphthongs ,,ɔɪ/,
+phoneme,vowels,diphthongs ,,/ʊə/,
+phoneme,vowels,monophthongs,,a,2D shape-a
+phoneme,vowels,monophthongs,,a,colour-a
+phoneme,vowels,monophthongs,,a,3D shape-a
+phoneme,vowels,monophthongs,,a,momentum-a
+phoneme,vowels,monophthongs,,a,emotion-a
+phoneme,vowels,monophthongs,,a,season-a
+phoneme,vowels,monophthongs,,e,2D shape-e
+phoneme,vowels,monophthongs,,e,colour-e
+phoneme,vowels,monophthongs,,e,3D shape-e
+phoneme,vowels,monophthongs,,e,momentum-e
+phoneme,vowels,monophthongs,,e,emotion-e
+phoneme,vowels,monophthongs,,e,season-e
+phoneme,vowels,monophthongs,,o,2D shape-o
+phoneme,vowels,monophthongs,,o,colour-o
+phoneme,vowels,monophthongs,,o,3D shape-o
+phoneme,vowels,monophthongs,,o,momentum-o
+phoneme,vowels,monophthongs,,o,emotion-o
+phoneme,vowels,monophthongs,,o,season-o
+phoneme,vowels,monophthongs,,u,2D shape-u
+phoneme,vowels,monophthongs,,u,colour-u
+phoneme,vowels,monophthongs,,u,3D shape-u
+phoneme,vowels,monophthongs,,u,momentum-u
+phoneme,vowels,monophthongs,,u,emotion-u
+phoneme,vowels,monophthongs,,u,season-u
