@@ -1,6 +1,6 @@
 {
     "name": "audio",
-    "children": [
+    "_children": [
         {
             "name": "consonants",
             "children": [
